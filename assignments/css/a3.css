@@ -1,0 +1,48 @@
+body {
+    background:rgb(241, 241, 237);
+    margin: 5vw;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+.grey-bg-txt {
+    background: lightgray;
+}
+.indent {
+    padding-left: 20px;
+}
+
+#top-reference {
+    padding-left: 5vw;
+}
+#basic-info {
+    /* border: 1px;
+    border-color: black;
+    border-style: solid; */
+    padding: 15px 15px 15px 0px;
+    width: 50vw;
+}
+#npc-box {
+    text-align: center;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    background: #f8f9fa;
+    padding: 5px;
+    width: 30vw;
+    align-content: right;
+    right: 0px;
+    top: 9.5vw;
+    position: absolute;
+}
+#main-nav {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    background: #f8f9fa;
+    width: 25vw;
+
+}
+#history {
+    margin-top: 150px;
+}
