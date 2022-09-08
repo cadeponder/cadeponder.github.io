@@ -32,7 +32,7 @@ body {
     width: 30vw;
     align-content: right;
     right: 0px;
-    top: 9.5vw;
+    top: 125px;
     position: absolute;
 }
 #main-nav {
@@ -45,4 +45,12 @@ body {
 }
 #history {
     margin-top: 150px;
+}
+#see-also {
+    width:60vw;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    background: #f8f9fa;
+    padding: 10px;
 }
