@@ -29,25 +29,26 @@ body {
     border-style: solid;
     background: #f8f9fa;
     padding: 5px;
-    width: 30vw;
+    width: 300px;
     align-content: right;
     right: 0px;
     top: 125px;
     position: absolute;
+    margin-bottom: 50px;
 }
 #main-nav {
     border: 1px;
     border-color: black;
     border-style: solid;
     background: #f8f9fa;
-    width: 25vw;
+    width: 200px;
 
 }
 #history {
-    margin-top: 150px;
+    margin-top: 175px;
 }
 #see-also {
-    width:60vw;
+    width:50vw;
     border: 1px;
     border-style: solid;
     border-color: black;
