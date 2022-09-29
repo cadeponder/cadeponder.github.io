@@ -27,8 +27,8 @@ a {
 .grid {
     display: grid;
     grid-template: 
-    "a a" auto 
-    "b c" auto
+    "a a" 1fr
+    "b c" 1fr
     ;
     gap:5px;
     width: 80%;
