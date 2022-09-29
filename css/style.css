@@ -1,0 +1,55 @@
+body {
+background: lightgrey;
+}
+
+h1 {
+    font-size: 36px;
+}
+p {
+    font-family: 'Averia Libre';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+}
+/* Default Button */
+#default-button{
+    position: absolute;
+    width: 166px;
+    height: 31px;
+    color: #000000;
+}
+a {
+    color: blue;
+    font-style: italic;
+}
+
+.grid {
+    display: grid;
+    grid-template: 
+    "a a" auto 
+    "b c" auto
+    ;
+    gap:5px;
+    width: 80%;
+    margin: auto;
+}
+#big-img {
+    grid-area: a;
+    background: lightblue;
+}
+.sm {
+    grid-area: b;
+    background: lightcoral;
+}
+.sm2 {
+    grid-area: c;
+    background: lightgreen;
+}
+.grid div {
+    text-align: center;
+    align-items: center;
+    border: #000000;
+    border-radius: 1px;
+    border-style: solid;
+}
