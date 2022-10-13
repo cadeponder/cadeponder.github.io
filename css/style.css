@@ -53,3 +53,39 @@ a {
     border-radius: 1px;
     border-style: solid;
 }
+
+/* phone FIX- query not firing */
+@media only screen and (min-width:0px) and (max-width: 450px) {
+    .grid {
+        display: grid;
+        grid-template: 
+        "a" 1fr
+        "b" 1fr
+        "c" 1fr
+        ; 
+        gap:px;
+        width: 80%;
+        margin: auto;
+    }
+    body {
+        background: black;
+    }
+}
+
+/* laptop FIX */
+@media only screen and (min-width: 1080px) and (max-width: 1900px) {
+    .grid {
+        display: grid;
+        grid-template: 
+        "a" 1fr
+        "b" 1fr
+        "c" 1fr
+        ;
+        gap:5px;
+        width: 80%;
+        margin: auto;
+    }
+    body {
+        background: black;
+    }
+}
