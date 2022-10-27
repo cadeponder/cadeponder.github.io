@@ -31,8 +31,8 @@ function result() {
   let newStory = storyText;
 
   const xItem = randomValueFromArray(insertX);
-const yItem = randomValueFromArray(insertY);
-const zItem = randomValueFromArray(insertZ);
+  const yItem = randomValueFromArray(insertY);
+  const zItem = randomValueFromArray(insertZ);
 
 newStory = newStory.replaceAll(':insertx:', xItem);
 newStory = newStory.replaceAll(':inserty:', yItem);
@@ -46,10 +46,10 @@ newStory = newStory.replaceAll(':insertz:', zItem);
 
   if(document.getElementById("uk").checked) {
     const weight = Math.round(300/14) + ' stone';
-    const temperature =  Math.round((9/5)*94+32) + 'centigrade';
+    const temperature =  Math.round((9/5)*94+32) + ' centigrade';
 
-    storyText = storyText.replaceAll('94 fahrenheit', temperature);
-    storyText = storyText.replaceAll('300 pounds', weight);
+    newStory = newStory.replaceAll('94 fahrenheit', temperature);
+    newStory = newStory.replaceAll('300 pounds', weight);
 
 
   }
