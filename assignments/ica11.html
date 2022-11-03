@@ -12,10 +12,13 @@
         <header>Random Dogs</header>
         <section class="quotes">
           <div class="quote-text" id="js-quote-text"></div>
-          <img id="dogs" src="https://dog.ceo/api/breeds/image/random" alt="">
+          <div id="myProgress">
+  <div id="myBar"></div>
+</div>
+          <img style="width: 100%" id="dogs" src="https://dog.ceo/api/breeds/image/random" alt="">
         </section>
         <section class="controls">
-          <button type="button" id="js-new-quote" class="new-quote button">
+          <button onclick="move()" type="button" id="js-new-quote" class="new-quote button">
             Generate a new dog
           </button>
           <a class="twitter button" id="js-tweet" target="_blank" rel="noreferrer">Tweet it!</a>
