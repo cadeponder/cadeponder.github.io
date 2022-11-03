@@ -7,7 +7,7 @@ async function getQuote() {
      var endpoint = 'https://dog.ceo/api/breeds/image/random';
      let dataFetch = await fetch(endpoint);
      let jsontext = await dataFetch.text();
-     if (dataFetch) {
+     if (jsontext) {
         // console.log(jsontext);
         let quote = JSON.parse(jsontext);
         console.log(quote.message);
