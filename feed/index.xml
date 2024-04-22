@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 22 Apr 2024 01:41:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Apr 2024 03:29:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,20 +20,179 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
-		<title>Chevron Studio</title>
+		<title>Shelton Capital CIO Minute Videos</title>
+		<link>/shelton-capital-cio-minute-videos/</link>
+					<comments>/shelton-capital-cio-minute-videos/#respond</comments>
+		
+		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
+		<pubDate>Mon, 22 Apr 2024 03:26:02 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<guid isPermaLink="false">/?p=88</guid>
+
+					<description><![CDATA[Shelton Capital CIO Minute Videos Shelton Capital Management is focused on providing excellent investment options to individuals, financial advisors and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading"><a href="https://sheltoncap.wistia.com/medias/26e7t2kj0c" target="_blank" rel="noreferrer noopener">Shelton Capital CIO Minute Videos</a></h1>
+
+
+
+<p><a href="https://www.sheltoncap.com/home/" target="_blank" rel="noreferrer noopener">Shelton Capital Management</a> is focused on providing excellent investment options to individuals, financial advisors and employer-sponsored retirement plans. Shelton wanted video editing support for creating compelling &#8220;CIO Minute&#8221; updates to inform investors of developing trends.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://sheltoncap.wistia.com/medias/26e7t2kj0c" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png" alt="" class="wp-image-89" srcset="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png 1024w, /wp-content/uploads/2024/04/shelton-cio-minute-F-300x169.png 300w, /wp-content/uploads/2024/04/shelton-cio-minute-F-768x433.png 768w, /wp-content/uploads/2024/04/shelton-cio-minute-F-1536x866.png 1536w, /wp-content/uploads/2024/04/shelton-cio-minute-F-2048x1155.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p class="has-small-font-size"><em>*Links to Shelton Funds&#8217; CIO Minute examples are not me recommending financial advice, purpose is only to give examples of video editing services provided</em></p>
+
+
+
+<h2 class="wp-block-heading">The Challenge</h2>
+
+
+
+<p>Making additional requested edits within the same allotted timeline on occasion, self-managing editing priorities within timeline, and maintaining consistency despite variations in source video and audio quality.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h2 class="wp-block-heading">What I Did</h2>
+
+
+
+<ul>
+<li>Provide Support for Six Months, Ending in December 2023</li>
+
+
+
+<li>Adapted Existing Premiere Project Templating to Create videos</li>
+
+
+
+<li>Sound Quality Improvements</li>
+
+
+
+<li>Editing for Smooth Playback</li>
+
+
+
+<li>Video Quality &amp; Color Adjustment Improvements</li>
+
+
+
+<li>Video Transformation &amp; Background Blur/Replacement</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Example Videos</h2>
+
+
+
+<ul>
+<li><a href="https://sheltoncap.wistia.com/medias/6ixuhcmfx2" target="_blank" rel="noreferrer noopener">Shelton Capital CIO Minute &#8211; September 28, 2023</a></li>
+
+
+
+<li><a href="https://sheltoncap.wistia.com/medias/26e7t2kj0c" target="_blank" rel="noreferrer noopener">Shelton Capital CIO Minute &#8211; August 23, 2023</a></li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/shelton-capital-cio-minute-videos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chevron Studio Re-Design</title>
 		<link>/chevron-studio/</link>
-					<comments>/chevron-studio/#respond</comments>
 		
 		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
 		<pubDate>Mon, 22 Apr 2024 01:41:28 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[design]]></category>
 		<guid isPermaLink="false">/?p=73</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Chevron Studio Re-Design Chevron Studio, a collaboration between Chevron Technology Ventures and the National Renewable Energy Laboratory (NREL), empowers entrepreneurs [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading"><a href="https://chevronstudio.com/" target="_blank" rel="noreferrer noopener">Chevron Studio Re-Design</a></h1>
+
+
+
+<p>Chevron Studio, a collaboration between Chevron Technology Ventures and the National Renewable Energy Laboratory (NREL), empowers entrepreneurs to transform low-carbon technologies from labs and universities into successful startups through three phases of support. Chevron and NREL wanted to transition from a simple static site to a more robust, informative, dynamic site.</p>
+
+
+
+<figure class="wp-block-image size-large wp-duotone-unset-1"><a href="https://chevronstudio.com/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png" alt="" class="wp-image-79" srcset="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png 1024w, /wp-content/uploads/2024/04/chevron-studio-F-1-300x169.png 300w, /wp-content/uploads/2024/04/chevron-studio-F-1-768x433.png 768w, /wp-content/uploads/2024/04/chevron-studio-F-1-1536x866.png 1536w, /wp-content/uploads/2024/04/chevron-studio-F-1-2048x1155.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">The Challenge</h2>
+
+
+
+<p>Navigating robust brand guidelines, managing dual stakeholder needs, and addressing pre-launch issues within tight timelines.</p>
+
+
+
+<h2 class="wp-block-heading">What I did</h2>
+
+
+
+<ul>
+<li>Internal Page Design
+<ul>
+<li>Created News Landing Style</li>
+
+
+
+<li>Created News Single Page Style</li>
+
+
+
+<li>Refinement of Cohorts Page Styles</li>
+</ul>
+</li>
+
+
+
+<li>Quality Assurance Testing &amp; Remediation</li>
+
+
+
+<li>Performed Requested Style &amp; Content Edits</li>
+
+
+
+<li>Responsive Design Styling Refinement</li>
+
+
+
+<li>Utilized Chevron&#8217;s Brand Guidelines</li>
+
+
+
+<li>Created Google Analytics 4 Property &amp; Connected to Site</li>
+
+
+
+<li>Installed &amp; Configured Cookie Consent</li>
+
+
+
+<li>Implemented Accessibility Features</li>
+</ul>
+]]></content:encoded>
 					
-					<wfw:commentRss>/chevron-studio/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -54,17 +213,17 @@
 
 
 
-<p><a href="https://sheltonfunds.com/" target="_blank" rel="noreferrer noopener">Shelton Capital Management</a> is focused on providing excellent investment options to individuals, financial advisors and employer-sponsored retirement plans. Shelton wanted a single informative landing page to hype up, and focus on, the NASDAQ 100 Index Fund.</p>
+<p><a href="https://www.sheltoncap.com/home/" target="_blank" rel="noreferrer noopener">Shelton Capital Management</a> is focused on providing excellent investment options to individuals, financial advisors and employer-sponsored retirement plans. Shelton wanted a single informative landing page to hype up, and focus on, the NASDAQ 100 Index Fund.</p>
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://sheltonfunds.com/nasdx-100-lp/" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="580" data-id="58" src="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png 1024w, /wp-content/uploads/2024/04/nasdx-100-lp-F-300x170.png 300w, /wp-content/uploads/2024/04/nasdx-100-lp-F-768x435.png 768w, /wp-content/uploads/2024/04/nasdx-100-lp-F-1536x869.png 1536w, /wp-content/uploads/2024/04/nasdx-100-lp-F-2048x1159.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="https://sheltonfunds.com/nasdx-100-lp/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="580" data-id="58" src="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png 1024w, /wp-content/uploads/2024/04/nasdx-100-lp-F-300x170.png 300w, /wp-content/uploads/2024/04/nasdx-100-lp-F-768x435.png 768w, /wp-content/uploads/2024/04/nasdx-100-lp-F-1536x869.png 1536w, /wp-content/uploads/2024/04/nasdx-100-lp-F-2048x1159.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </figure>
 
 
 
-<p class="has-small-font-size"><em>*I do not currently maintain this site, please consider some updates have occurred since launch</em></p>
+<p class="has-small-font-size"><em>*I do not currently maintain this page, please consider some updates have occurred since launch</em></p>
 
 
 
@@ -76,7 +235,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I did</h2>
 
