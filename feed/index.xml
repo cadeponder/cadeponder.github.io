@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 22 Apr 2024 03:29:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Apr 2024 06:24:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,169 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>&#8220;Serotonin&#8221;: A Visual Sound Experience</title>
+		<link>/serotonin-a-visual-sound-experience/</link>
+					<comments>/serotonin-a-visual-sound-experience/#respond</comments>
+		
+		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 05:46:33 +0000</pubDate>
+				<category><![CDATA[creative]]></category>
+		<category><![CDATA[technical]]></category>
+		<guid isPermaLink="false">/?p=113</guid>
+
+					<description><![CDATA[&#8220;Serotonin&#8221;: A Visual Sound Experience An embodiment of what brings me serotonin: loud music &#38; conversation, the warmth of the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading"><a href="https://vimeo.com/938060161?share=copy">&#8220;Serotonin&#8221;: A Visual Sound Experience</a></h1>
+
+
+
+<p>An embodiment of what brings me serotonin: loud music &amp; conversation, the warmth of the sun, that fuzziness you see when you give your eyes a good rub in the morning.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<div style="height: 500px;position:relative;"><iframe src="https://player.vimeo.com/video/938060161?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:auto;height: 500px;" title="Serotonin, a visual sound experience demo video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p>Brought to life with creative coding using a js library, p5.js, and the need for expression. &#8220;Serotonin&#8221; invites the viewer through interactive sounds and visuals to take a moment for wonder, play, and music.</p>
+
+
+
+<p>&#8220;Serotonin&#8221; uses the viewer&#8217;s microphone to pick up on sounds like conversation and music. The dynamic volume of the viewer&#8217;s environment transforms, and at times distorts, the scene.</p>
+
+
+
+<p><a href="https://editor.p5js.org/CaitlinPonder/sketches/kW-3vuaHq" target="_blank" rel="noreferrer noopener">Click here to interact with &#8220;Serotonin&#8221;</a> , press the red play button to start the script, allow microphone usage, and make some noise!</p>
+
+
+
+<p class="has-small-font-size">*Demo video audio credit: <a href="https://pixabay.com/music/future-bass-titanium-170190/">AlisiaBeats</a><br><em>*Privacy: This experience does not store audio or any user information, it just detects noise levels</em> using the microphone</p>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Resources to Remix Project</h2>
+
+
+
+<ul>
+<li><a href="https://editor.p5js.org/CaitlinPonder/sketches/kW-3vuaHq">Edit &#8220;Serotonin&#8221; p5.js</a> &#8211; Can create copy of my code</li>
+
+
+
+<li><a href="https://editor.p5js.org/CaitlinPonder/sketches/-GZvuOQwq">Map Making Reference p5.js </a> &#8211; Can create copy of sketch and experiment with the code I adapted/extended</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/serotonin-a-visual-sound-experience/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Brasserie Ten Ten Custom &#8220;Menus&#8221; Editing</title>
+		<link>/brasserie-ten-ten-custom-menus-editing/</link>
+					<comments>/brasserie-ten-ten-custom-menus-editing/#respond</comments>
+		
+		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 04:14:29 +0000</pubDate>
+				<category><![CDATA[technical]]></category>
+		<guid isPermaLink="false">/?p=105</guid>
+
+					<description><![CDATA[Brasserie Ten Ten User-Friendly &#8220;Menus&#8221; Editing Brasserie Ten Ten is a Parisian style brasserie in Boulder, Colorado, offering fine cuisine. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading"><a href="https://www.brasserietenten.com/" target="_blank" rel="noreferrer noopener">Brasserie Ten Ten User-Friendly &#8220;Menus&#8221; Editing</a></h1>
+
+
+
+<p>Brasserie Ten Ten is a Parisian style brasserie in Boulder, Colorado, offering fine cuisine. Brasserie wanted a simpler menu PDF update process to replace the previous tedious menu page content edits.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.brasserietenten.com/" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="578" src="/wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1024x578.png" alt="" class="wp-image-106" srcset="/wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1024x578.png 1024w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-300x169.png 300w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-768x434.png 768w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1536x867.png 1536w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-2048x1156.png 2048w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p class="has-small-font-size"><em>*The word &#8220;Menus&#8221; refers to the main-navigation item &#8220;Menus&#8221; &amp; its sub-navigation items</em></p>
+
+
+
+<h2 class="wp-block-heading">The Challenge </h2>
+
+
+
+<p>Developing an intuitive method for non-technical users to update &#8220;Menus&#8221; sub-navigation items within the framework of the WordPress theme and platform.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h2 class="wp-block-heading">What I Did</h2>
+
+
+
+<ul>
+<li>Created WordPress &#8220;PDF Menus&#8221; admin options page for uploading PDF menus with required custom fields: Menu Name, Menu PDF, and Menu Background Image.
+<ul>
+<li class="has-small-font-size"><em>*The features requiring &#8220;Menu Background Image&#8221; have not been launched yet</em></li>
+</ul>
+</li>
+
+
+
+<li>Created &#8220;Menu Editor&#8221; user role they can assign to staff members so they can only edit the &#8220;Menus&#8221; sub-navigation items</li>
+
+
+
+<li>Custom field integration for &#8220;PDF Menus&#8221; option page</li>
+
+
+
+<li>Developed PHP function for deceivingly simple front-end updates with the push of the &#8220;publish&#8221; button on the options page by integrating custom fields and WordPress functions</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Key Features</h2>
+
+
+
+<ul>
+<li>Output script conditionals for not displaying incomplete update items</li>
+
+
+
+<li>User-friendly admin page name &amp; input labels</li>
+
+
+
+<li>Ability to quickly re-order &#8220;Menus&#8221; items by drag &amp; dropping</li>
+
+
+
+<li>Menu editor role specific limited admin options &amp; simpler interface</li>
+
+
+
+<li>Ability to scale and maintain &#8220;Menus&#8221; sub-nav items</li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/brasserie-ten-ten-custom-menus-editing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Shelton Capital CIO Minute Videos</title>
 		<link>/shelton-capital-cio-minute-videos/</link>
 					<comments>/shelton-capital-cio-minute-videos/#respond</comments>
@@ -39,7 +202,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://sheltoncap.wistia.com/medias/26e7t2kj0c" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png" alt="" class="wp-image-89" srcset="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png 1024w, /wp-content/uploads/2024/04/shelton-cio-minute-F-300x169.png 300w, /wp-content/uploads/2024/04/shelton-cio-minute-F-768x433.png 768w, /wp-content/uploads/2024/04/shelton-cio-minute-F-1536x866.png 1536w, /wp-content/uploads/2024/04/shelton-cio-minute-F-2048x1155.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://sheltoncap.wistia.com/medias/26e7t2kj0c" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png" alt="" class="wp-image-89" srcset="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png 1024w, /wp-content/uploads/2024/04/shelton-cio-minute-F-300x169.png 300w, /wp-content/uploads/2024/04/shelton-cio-minute-F-768x433.png 768w, /wp-content/uploads/2024/04/shelton-cio-minute-F-1536x866.png 1536w, /wp-content/uploads/2024/04/shelton-cio-minute-F-2048x1155.png 2048w, /wp-content/uploads/2024/04/shelton-cio-minute-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -55,7 +218,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I Did</h2>
 
@@ -128,7 +291,7 @@
 
 
 
-<figure class="wp-block-image size-large wp-duotone-unset-1"><a href="https://chevronstudio.com/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png" alt="" class="wp-image-79" srcset="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png 1024w, /wp-content/uploads/2024/04/chevron-studio-F-1-300x169.png 300w, /wp-content/uploads/2024/04/chevron-studio-F-1-768x433.png 768w, /wp-content/uploads/2024/04/chevron-studio-F-1-1536x866.png 1536w, /wp-content/uploads/2024/04/chevron-studio-F-1-2048x1155.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large wp-duotone-unset-1"><a href="https://chevronstudio.com/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png" alt="" class="wp-image-79" srcset="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png 1024w, /wp-content/uploads/2024/04/chevron-studio-F-1-300x169.png 300w, /wp-content/uploads/2024/04/chevron-studio-F-1-768x433.png 768w, /wp-content/uploads/2024/04/chevron-studio-F-1-1536x866.png 1536w, /wp-content/uploads/2024/04/chevron-studio-F-1-2048x1155.png 2048w, /wp-content/uploads/2024/04/chevron-studio-F-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -218,7 +381,7 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://sheltonfunds.com/nasdx-100-lp/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="580" data-id="58" src="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png 1024w, /wp-content/uploads/2024/04/nasdx-100-lp-F-300x170.png 300w, /wp-content/uploads/2024/04/nasdx-100-lp-F-768x435.png 768w, /wp-content/uploads/2024/04/nasdx-100-lp-F-1536x869.png 1536w, /wp-content/uploads/2024/04/nasdx-100-lp-F-2048x1159.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://sheltonfunds.com/nasdx-100-lp/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="580" data-id="58" src="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png 1024w, /wp-content/uploads/2024/04/nasdx-100-lp-F-300x170.png 300w, /wp-content/uploads/2024/04/nasdx-100-lp-F-768x435.png 768w, /wp-content/uploads/2024/04/nasdx-100-lp-F-1536x869.png 1536w, /wp-content/uploads/2024/04/nasdx-100-lp-F-2048x1159.png 2048w, /wp-content/uploads/2024/04/nasdx-100-lp-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </figure>
 
 
@@ -235,7 +398,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I did</h2>
 
