@@ -81,6 +81,7 @@ flexibility(document.documentElement);
 <link rel="shortlink" href="/">
 <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F">
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F#038;format=xml">
+<meta name="cdp-version" content="1.4.6">
 <link rel="pingback" href="/xmlrpc.php">
 <meta name="generator" content="Elementor 3.21.1; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-swap">
 			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -102,7 +103,7 @@ flexibility(document.documentElement);
 					<style id="wp-custom-css">h1 {
 	margin: 2% 0;
 }
-/* Grids */
+/* Catlist Grids */
 body ul.lcp_catlist {
     display: flex;
     flex-direction: row;
@@ -110,7 +111,10 @@ body ul.lcp_catlist {
     gap: 0.5rem;
     justify-content: space-around;
     padding-left: unset;
+	 flex-wrap: wrap;
+		align-items: left;
 }
+
 body ul.lcp_catlist > div a {
     display: flex;
     flex-direction: column;
