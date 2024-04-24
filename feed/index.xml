@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 23 Apr 2024 06:24:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Apr 2024 04:32:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,285 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>El Paso County Public Health Web Accessibility Improvements</title>
+		<link>/el-paso-county-public-health-web-accessibility-improvements/</link>
+					<comments>/el-paso-county-public-health-web-accessibility-improvements/#respond</comments>
+		
+		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
+		<pubDate>Wed, 24 Apr 2024 03:11:43 +0000</pubDate>
+				<category><![CDATA[technical]]></category>
+		<guid isPermaLink="false">/?p=181</guid>
+
+					<description><![CDATA[El Paso County Public Health Web Accessibility Improvements El Paso County Public Health is based in Colorado Springs, Colorado and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading"><a href="https://www.elpasocountyhealth.org/">El Paso County Public Health Web Accessibility Improvements</a></h1>
+
+
+
+<p>El Paso County Public Health is based in Colorado Springs, Colorado and serves the estimated 735,822 residents of El Paso County and visitors. They wanted to improve the accessibility of the site pre-launch to better serve their communities and comply with Section 508. </p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.elpasocountyhealth.org/" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="578" src="/wp-content/uploads/2024/04/elpasocounty-pubhealth-F-1024x578.jpg" alt="" class="wp-image-182" srcset="/wp-content/uploads/2024/04/elpasocounty-pubhealth-F-1024x578.jpg 1024w, /wp-content/uploads/2024/04/elpasocounty-pubhealth-F-300x169.jpg 300w, /wp-content/uploads/2024/04/elpasocounty-pubhealth-F-768x434.jpg 768w, /wp-content/uploads/2024/04/elpasocounty-pubhealth-F-1536x867.jpg 1536w, /wp-content/uploads/2024/04/elpasocounty-pubhealth-F.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2 class="wp-block-heading" style="margin-top:20px">Challenge</h2>
+
+
+
+<p>Applying global, scalable, site fixes for integrated design and development issues introduced by disparate page features.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h2 class="wp-block-heading">What I Did</h2>
+
+
+
+<ul>
+<li>Performed automated and manual accessibility testing using latest WCAG 2.2 standards</li>
+
+
+
+<li>Documented found accessibility issues including the &#8220;why&#8221;, the fix, and the estimated fix time</li>
+
+
+
+<li>Remediated technical &amp; design rooted failures by creating custom JavaScript functionalities</li>
+
+
+
+<li>Efficiently debugged custom accessibility scripts for customizing rigid integrations lacking or improperly implementing accessibility features</li>
+
+
+
+<li>Utilized strong familiarity with WCAG standards</li>
+
+
+
+<li> efficient use of both automated testing &amp; manual testing methods</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h2 class="wp-block-heading">Web Accessibility Tools Used</h2>
+
+
+
+<ul>
+<li><a href="https://www.w3.org/TR/WCAG22/" target="_blank" rel="noreferrer noopener">WCAG 2.2</a></li>
+
+
+
+<li><a href="https://color.adobe.com/create/color-contrast-analyzer" target="_blank" rel="noreferrer noopener">Adobe Color&#8217;s accessibility tool</a></li>
+
+
+
+<li><a href="https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?pli=1" target="_blank" rel="noreferrer noopener">Lighthouse</a></li>
+
+
+
+<li><a href="https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh" target="_blank" rel="noreferrer noopener">WAVE Evaluation Tool</a></li>
+
+
+
+<li>Chrome inspector and local overrides</li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/el-paso-county-public-health-web-accessibility-improvements/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Slow Integration Coaching&#8221; Rebranding Assistance</title>
+		<link>/slow-integration-coaching-rebranding-assistance/</link>
+					<comments>/slow-integration-coaching-rebranding-assistance/#respond</comments>
+		
+		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
+		<pubDate>Wed, 24 Apr 2024 02:39:42 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<guid isPermaLink="false">/?p=157</guid>
+
+					<description><![CDATA[&#8220;Slow Integration Coaching&#8221; Rebranding Assistance Sarah Rimmel (She/They), the owner, is committed to cultivating ease, awareness of DE&#38;I, and offers [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading">&#8220;Slow Integration Coaching&#8221; Rebranding Assistance</h1>
+
+
+
+<p>Sarah Rimmel (She/They), the owner, is committed to cultivating ease, awareness of DE&amp;I, and offers somatic coaching for individuals or teams. Sarah wanted assistance with rebranding the practice, design, marketing, video editing, and accessibility support.</p>
+
+
+
+<h2 class="wp-block-heading">Values Alignment</h2>
+
+
+
+<p>Rebranding started with learning about Sarah and her practice to learn what values their coaching practice embodies and what their business goals are for rebranding. These conversations yielded valuable insights, highlighting the significance of natural, cultural, and somatic awareness. </p>
+
+
+
+<h2 class="wp-block-heading">Designing a New Custom Script Logo</h2>
+
+
+
+<p>During discussions, Sarah repeatedly mentioned the symbolism of finding joy in all the little things during hard times, like a beautiful stone, or a leaf with a perfect frost layer. We explored options for typography and landed on creating a custom script logo to best present their values after reviewing draft typography options. </p>
+
+
+
+<p>This logo is adapted from Sarah&#8217;s own handwriting to add a personal touch, key design choices such as the form of the &#8220;o&#8217;s integrate the symbolism of natural flow and ease.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex" style="padding-bottom:20px">
+<figure class="wp-block-image size-large sarah-logo-lgt is-style-default"><img decoding="async" width="1024" height="382" data-id="158" src="/wp-content/uploads/2024/04/sarah-logo-lgt-1024x382.png" alt="" class="wp-image-158" srcset="/wp-content/uploads/2024/04/sarah-logo-lgt-1024x382.png 1024w, /wp-content/uploads/2024/04/sarah-logo-lgt-300x112.png 300w, /wp-content/uploads/2024/04/sarah-logo-lgt-768x286.png 768w, /wp-content/uploads/2024/04/sarah-logo-lgt-1536x573.png 1536w, /wp-content/uploads/2024/04/sarah-logo-lgt-2048x764.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large sarah-logo-drk"><img decoding="async" width="1024" height="382" data-id="159" src="/wp-content/uploads/2024/04/sarah-logo-drk-1024x382.png" alt="" class="wp-image-159" srcset="/wp-content/uploads/2024/04/sarah-logo-drk-1024x382.png 1024w, /wp-content/uploads/2024/04/sarah-logo-drk-300x112.png 300w, /wp-content/uploads/2024/04/sarah-logo-drk-768x286.png 768w, /wp-content/uploads/2024/04/sarah-logo-drk-1536x573.png 1536w, /wp-content/uploads/2024/04/sarah-logo-drk-2048x764.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<h2 class="wp-block-heading">General Design</h2>
+
+
+
+<p>I helped guide alignment between design strategies and business objectives, establishing accessible style guidelines and crafting marketing assets. Additionally, I provided resources to facilitate Sarah&#8217;s understanding of design principles and web accessibility.</p>
+
+
+
+<p>Regular deliverables included sticker designs, social media post marketing assets, marketing handout formatting, and accessible video editing.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="512" height="1024" src="/wp-content/uploads/2024/04/popl-sticker-1-512x1024.png" alt="" class="wp-image-161" style="width:auto;height:430px" srcset="/wp-content/uploads/2024/04/popl-sticker-1-512x1024.png 512w, /wp-content/uploads/2024/04/popl-sticker-1-150x300.png 150w, /wp-content/uploads/2024/04/popl-sticker-1.png 600w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="791" height="1024" src="/wp-content/uploads/2024/04/Sarah-Handout-791x1024.jpg" alt="" class="wp-image-171" srcset="/wp-content/uploads/2024/04/Sarah-Handout-791x1024.jpg 791w, /wp-content/uploads/2024/04/Sarah-Handout-232x300.jpg 232w, /wp-content/uploads/2024/04/Sarah-Handout-768x994.jpg 768w, /wp-content/uploads/2024/04/Sarah-Handout-1187x1536.jpg 1187w, /wp-content/uploads/2024/04/Sarah-Handout.jpg 1484w" sizes="(max-width: 791px) 100vw, 791px" /></figure>
+</div>
+</div>
+
+
+
+<figure class="wp-block-image alignfull size-full"><img loading="lazy" decoding="async" width="640" height="200" src="/wp-content/uploads/2024/04/sarah-banner-640x200-1.jpg" alt="" class="wp-image-168" srcset="/wp-content/uploads/2024/04/sarah-banner-640x200-1.jpg 640w, /wp-content/uploads/2024/04/sarah-banner-640x200-1-300x94.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Practice-I Heart Me Savoring Session (Part 2 of 2)" width="1200" height="675" src="https://www.youtube.com/embed/NgvMWKKEqqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div><figcaption class="wp-element-caption">Practice &#8220;I Heart Me&#8221; with Sarah</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/slow-integration-coaching-rebranding-assistance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Plateau Excavation Redesign Implementation</title>
+		<link>/plateau-excavation-redesign-implementation/</link>
+					<comments>/plateau-excavation-redesign-implementation/#respond</comments>
+		
+		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
+		<pubDate>Wed, 24 Apr 2024 01:02:01 +0000</pubDate>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[technical]]></category>
+		<guid isPermaLink="false">/?p=147</guid>
+
+					<description><![CDATA[Plateau Excavation Redesign Implementation Plateau Excavation is one of the Southeast&#8217;s largest site infrastructure contractors specializing in industrial, e-commerce, and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading"><a href="https://plateauexcavation.com/" target="_blank" rel="noreferrer noopener">Plateau Excavation Redesign Implementation</a></h1>
+
+
+
+<p>Plateau Excavation is one of the Southeast&#8217;s largest site infrastructure contractors specializing in industrial, e-commerce, and other services. Plateau wanted assistance implementing high fidelity wireframes and features on their WordPress site.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://plateauexcavation.com/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="578" src="/wp-content/uploads/2024/04/plateau-excavation-F-1024x578.jpg" alt="" class="wp-image-148" srcset="/wp-content/uploads/2024/04/plateau-excavation-F-1024x578.jpg 1024w, /wp-content/uploads/2024/04/plateau-excavation-F-300x169.jpg 300w, /wp-content/uploads/2024/04/plateau-excavation-F-768x434.jpg 768w, /wp-content/uploads/2024/04/plateau-excavation-F-1536x867.jpg 1536w, /wp-content/uploads/2024/04/plateau-excavation-F.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p><em>*I do not currently maintain this site&#8217;s content, please consider some updates have occurred since launch</em></p>
+
+
+
+<h2 class="wp-block-heading">Challenge</h2>
+
+
+
+<p>Adapting WordPress theme elements with rigid properties to align with wireframe specifications, like overlaying elements not inherently supported by the theme, while maintaining responsiveness and keeping the pages simple to edit by non-technical folks.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h2 class="wp-block-heading">What I Did</h2>
+
+
+
+<ul>
+<li>Implemented style guide</li>
+
+
+
+<li>Applied content to homepage &amp; internal pages</li>
+
+
+
+<li>Implemented low and high-fidelity wireframes</li>
+
+
+
+<li>Responsive design &amp; development</li>
+
+
+
+<li>Quality assurance testing &amp; remediation</li>
+
+
+
+<li>Team bio modal functionality</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Page Examples</h2>
+
+
+
+<ul>
+<li><a href="https://plateauexcavation.com/" target="_blank" rel="noreferrer noopener">Homepage</a> implementation</li>
+
+
+
+<li><a href="https://plateauexcavation.com/what-we-do/" target="_blank" rel="noreferrer noopener">What We Do</a> implementation</li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/plateau-excavation-redesign-implementation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>&#8220;Serotonin&#8221;: A Visual Sound Experience</title>
 		<link>/serotonin-a-visual-sound-experience/</link>
 					<comments>/serotonin-a-visual-sound-experience/#respond</comments>
@@ -40,7 +319,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
 <div style="height: 500px;position:relative;"><iframe src="https://player.vimeo.com/video/938060161?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:auto;height: 500px;" title="Serotonin, a visual sound experience demo video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>
@@ -85,18 +364,18 @@
 		
 			</item>
 		<item>
-		<title>Brasserie Ten Ten Custom &#8220;Menus&#8221; Editing</title>
-		<link>/brasserie-ten-ten-custom-menus-editing/</link>
-					<comments>/brasserie-ten-ten-custom-menus-editing/#respond</comments>
+		<title>Brasserie Ten Ten User-Friendly &#8220;Menus&#8221; Editing Functionality</title>
+		<link>/brasserie-ten-ten-user-friendly-menus-editing-functionality/</link>
+					<comments>/brasserie-ten-ten-user-friendly-menus-editing-functionality/#respond</comments>
 		
 		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 04:14:29 +0000</pubDate>
 				<category><![CDATA[technical]]></category>
 		<guid isPermaLink="false">/?p=105</guid>
 
-					<description><![CDATA[Brasserie Ten Ten User-Friendly &#8220;Menus&#8221; Editing Brasserie Ten Ten is a Parisian style brasserie in Boulder, Colorado, offering fine cuisine. [&#8230;]]]></description>
+					<description><![CDATA[Brasserie Ten Ten User-Friendly &#8220;Menus&#8221; Editing Functionality Brasserie Ten Ten is a Parisian style brasserie in Boulder, Colorado, offering fine [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h1 class="wp-block-heading"><a href="https://www.brasserietenten.com/" target="_blank" rel="noreferrer noopener">Brasserie Ten Ten User-Friendly &#8220;Menus&#8221; Editing</a></h1>
+<h1 class="wp-block-heading"><a href="https://www.brasserietenten.com/" target="_blank" rel="noreferrer noopener">Brasserie Ten Ten User-Friendly &#8220;Menus&#8221; Editing Functionality</a></h1>
 
 
 
@@ -104,7 +383,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.brasserietenten.com/" target="_blank" rel="noreferrer noopener"><img fetchpriority="high" decoding="async" width="1024" height="578" src="/wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1024x578.png" alt="" class="wp-image-106" srcset="/wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1024x578.png 1024w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-300x169.png 300w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-768x434.png 768w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1536x867.png 1536w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-2048x1156.png 2048w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.brasserietenten.com/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="578" src="/wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1024x578.png" alt="" class="wp-image-106" srcset="/wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1024x578.png 1024w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-300x169.png 300w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-768x434.png 768w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-1536x867.png 1536w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F-2048x1156.png 2048w, /wp-content/uploads/2024/04/brasserie-custom-menu-editing-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -120,7 +399,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I Did</h2>
 
@@ -177,7 +456,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/brasserie-ten-ten-custom-menus-editing/feed/</wfw:commentRss>
+					<wfw:commentRss>/brasserie-ten-ten-user-friendly-menus-editing-functionality/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -202,7 +481,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://sheltoncap.wistia.com/medias/26e7t2kj0c" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png" alt="" class="wp-image-89" srcset="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png 1024w, /wp-content/uploads/2024/04/shelton-cio-minute-F-300x169.png 300w, /wp-content/uploads/2024/04/shelton-cio-minute-F-768x433.png 768w, /wp-content/uploads/2024/04/shelton-cio-minute-F-1536x866.png 1536w, /wp-content/uploads/2024/04/shelton-cio-minute-F-2048x1155.png 2048w, /wp-content/uploads/2024/04/shelton-cio-minute-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://sheltoncap.wistia.com/medias/26e7t2kj0c" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png" alt="" class="wp-image-89" srcset="/wp-content/uploads/2024/04/shelton-cio-minute-F-1024x577.png 1024w, /wp-content/uploads/2024/04/shelton-cio-minute-F-300x169.png 300w, /wp-content/uploads/2024/04/shelton-cio-minute-F-768x433.png 768w, /wp-content/uploads/2024/04/shelton-cio-minute-F-1536x866.png 1536w, /wp-content/uploads/2024/04/shelton-cio-minute-F-2048x1155.png 2048w, /wp-content/uploads/2024/04/shelton-cio-minute-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -218,7 +497,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I Did</h2>
 
@@ -291,7 +570,7 @@
 
 
 
-<figure class="wp-block-image size-large wp-duotone-unset-1"><a href="https://chevronstudio.com/" target="_blank" rel="noreferrer noopener"><img decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png" alt="" class="wp-image-79" srcset="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png 1024w, /wp-content/uploads/2024/04/chevron-studio-F-1-300x169.png 300w, /wp-content/uploads/2024/04/chevron-studio-F-1-768x433.png 768w, /wp-content/uploads/2024/04/chevron-studio-F-1-1536x866.png 1536w, /wp-content/uploads/2024/04/chevron-studio-F-1-2048x1155.png 2048w, /wp-content/uploads/2024/04/chevron-studio-F-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large wp-duotone-unset-2"><a href="https://chevronstudio.com/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="577" src="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png" alt="" class="wp-image-79" srcset="/wp-content/uploads/2024/04/chevron-studio-F-1-1024x577.png 1024w, /wp-content/uploads/2024/04/chevron-studio-F-1-300x169.png 300w, /wp-content/uploads/2024/04/chevron-studio-F-1-768x433.png 768w, /wp-content/uploads/2024/04/chevron-studio-F-1-1536x866.png 1536w, /wp-content/uploads/2024/04/chevron-studio-F-1-2048x1155.png 2048w, /wp-content/uploads/2024/04/chevron-studio-F-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -380,13 +659,13 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="https://sheltonfunds.com/nasdx-100-lp/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="580" data-id="58" src="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2024/04/nasdx-100-lp-F-1024x580.png 1024w, /wp-content/uploads/2024/04/nasdx-100-lp-F-300x170.png 300w, /wp-content/uploads/2024/04/nasdx-100-lp-F-768x435.png 768w, /wp-content/uploads/2024/04/nasdx-100-lp-F-1536x869.png 1536w, /wp-content/uploads/2024/04/nasdx-100-lp-F-2048x1159.png 2048w, /wp-content/uploads/2024/04/nasdx-100-lp-F.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 </figure>
 
 
 
-<p class="has-small-font-size"><em>*I do not currently maintain this page, please consider some updates have occurred since launch</em></p>
+<p class="has-small-font-size"><em>*I do not currently maintain this page&#8217;s content, please consider some updates have occurred since launch</em></p>
 
 
 
@@ -398,7 +677,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I did</h2>
 

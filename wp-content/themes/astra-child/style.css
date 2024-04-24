@@ -1,0 +1,62 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:	https://cadeponder.github.io/astra-child
+ Description:  Astra Child Theme is an awesome theme.
+ Author:   	Brainstorm Force
+ Author URI:   https://www.wpastra.com
+ Template: 	astra
+ Version:  	1.0.0
+ License:  	GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:     	astra
+ Text Domain:  astrachild
+*/
+
+/* global */
+body h1, body h2, body h3, body h4, body h5, body h6 {
+    color: #333333;
+}
+body h1 {
+    line-height: 3.2rem;
+    padding-bottom: 12px;
+    margin-top: 2rem !important;
+    border-bottom: 6px solid;
+}
+body li::marker, body summary::marker, body [data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{
+    color: coral;
+}
+body h1 {
+    border-color: #fcb900;
+}
+.cat-design, .cat-technical, .cat-creative, .cat-analytics {
+ font-weight: normal;
+}
+/* Home */
+
+/* About Page */
+   body .is-layout-flex.headshot-block > div:last-child .wp-block-image img {
+     height: 200px;
+     width: 200px;
+     background: #fcb900;
+     border-radius: 10% 0;
+     margin-top: 2rem;
+     margin-left: 20%;
+   }
+   
+   /* post */
+   .sarah-logo-drk {
+    background: white;
+   }
+   .sarah-logo-lgt {
+    background: black;
+   }
+   
+   /* Mobile Queries */
+   @media only screen and (max-width: 781px){
+    body .is-layout-flex.headshot-block {
+     flex-direction: column-reverse;
+    }
+    body .is-layout-flex.headshot-block > div:last-child .wp-block-image img{
+        margin-left: unset;
+    }
+   }
