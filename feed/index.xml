@@ -12,14 +12,110 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 26 Apr 2024 15:58:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 May 2024 05:00:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
+		<title>Personal Whiskey Branding</title>
+		<link>/personal-whiskey-branding/</link>
+					<comments>/personal-whiskey-branding/#respond</comments>
+		
+		<dc:creator><![CDATA[cade_ponder]]></dc:creator>
+		<pubDate>Thu, 09 May 2024 04:38:49 +0000</pubDate>
+				<category><![CDATA[creative]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[technical]]></category>
+		<guid isPermaLink="false">/?p=247</guid>
+
+					<description><![CDATA[Personal Whiskey Branding &#8220;Ponder&#8221; whiskey is a playful personal branding project meant to encapsulate my spirit visually. Like a good [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading">Personal Whiskey Branding</h1>
+
+
+
+<p>&#8220;Ponder&#8221; whiskey is a playful personal branding project meant to encapsulate my spirit visually. Like a good whiskey I am bold, robust, and warm. This project brings together my abilities to imagine, design, and execute ideas technically.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/05/WhiskeyBranding-FrontView-1024x576.jpg" alt="" class="wp-image-248" srcset="/wp-content/uploads/2024/05/WhiskeyBranding-FrontView-1024x576.jpg 1024w, /wp-content/uploads/2024/05/WhiskeyBranding-FrontView-300x169.jpg 300w, /wp-content/uploads/2024/05/WhiskeyBranding-FrontView-768x432.jpg 768w, /wp-content/uploads/2024/05/WhiskeyBranding-FrontView-1536x864.jpg 1536w, /wp-content/uploads/2024/05/WhiskeyBranding-FrontView.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/05/WhiskeyBranding-BackView-1024x576.jpg" alt="" class="wp-image-249" srcset="/wp-content/uploads/2024/05/WhiskeyBranding-BackView-1024x576.jpg 1024w, /wp-content/uploads/2024/05/WhiskeyBranding-BackView-300x169.jpg 300w, /wp-content/uploads/2024/05/WhiskeyBranding-BackView-768x432.jpg 768w, /wp-content/uploads/2024/05/WhiskeyBranding-BackView-1536x864.jpg 1536w, /wp-content/uploads/2024/05/WhiskeyBranding-BackView.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="725" height="407" src="/wp-content/uploads/2024/05/PersonalBranding-1.jpg" alt="" class="wp-image-250" srcset="/wp-content/uploads/2024/05/PersonalBranding-1.jpg 725w, /wp-content/uploads/2024/05/PersonalBranding-1-300x168.jpg 300w" sizes="(max-width: 725px) 100vw, 725px" /><figcaption class="wp-element-caption">Vision board</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="725" height="407" src="/wp-content/uploads/2024/05/PersonalBranding-2.png" alt="" class="wp-image-251" srcset="/wp-content/uploads/2024/05/PersonalBranding-2.png 725w, /wp-content/uploads/2024/05/PersonalBranding-2-300x168.png 300w" sizes="(max-width: 725px) 100vw, 725px" /><figcaption class="wp-element-caption">Design elements</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="724" height="407" src="/wp-content/uploads/2024/05/PersonalBranding-3.png" alt="" class="wp-image-252" srcset="/wp-content/uploads/2024/05/PersonalBranding-3.png 724w, /wp-content/uploads/2024/05/PersonalBranding-3-300x169.png 300w" sizes="(max-width: 724px) 100vw, 724px" /><figcaption class="wp-element-caption">Early mockups and conceptualization</figcaption></figure>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h2 class="wp-block-heading">What I Did</h2>
+
+
+
+<ul>
+<li>Custom branding and label creation</li>
+
+
+
+<li>Product mockup staging and rendering</li>
+
+
+
+<li>Creation of branding design system</li>
+
+
+
+<li>Object modeling for whiskey bottle container</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%">
+<h2 class="wp-block-heading">Programs Used</h2>
+
+
+
+<ul>
+<li>Adobe Illustrator</li>
+
+
+
+<li>Adobe Photoshop</li>
+
+
+
+<li>Adobe Dimension</li>
+
+
+
+<li>Fusion 360</li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/personal-whiskey-branding/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>&#8220;Living Mirrors&#8221; Exhibition Space Concept</title>
 		<link>/living-mirrors-exhibition-space-concept/</link>
 					<comments>/living-mirrors-exhibition-space-concept/#respond</comments>
@@ -28,6 +124,7 @@
 		<pubDate>Thu, 25 Apr 2024 03:50:01 +0000</pubDate>
 				<category><![CDATA[creative]]></category>
 		<category><![CDATA[design]]></category>
+		<category><![CDATA[technical]]></category>
 		<guid isPermaLink="false">/?p=225</guid>
 
 					<description><![CDATA[&#8220;Living Mirrors&#8221; Exhibition Space Concept &#8220;Living Mirrors&#8221; is an avant-garde conceptual design project focused on form, materials, human interaction, and [&#8230;]]]></description>
@@ -41,15 +138,15 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex" style="margin-bottom:20px">
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" data-id="228" src="/wp-content/uploads/2024/04/lyingMirrors-arc-interacive.jpg" alt="" class="wp-image-228" srcset="/wp-content/uploads/2024/04/lyingMirrors-arc-interacive.jpg 1024w, /wp-content/uploads/2024/04/lyingMirrors-arc-interacive-300x225.jpg 300w, /wp-content/uploads/2024/04/lyingMirrors-arc-interacive-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="228" src="/wp-content/uploads/2024/04/lyingMirrors-arc-interacive.jpg" alt="" class="wp-image-228" srcset="/wp-content/uploads/2024/04/lyingMirrors-arc-interacive.jpg 1024w, /wp-content/uploads/2024/04/lyingMirrors-arc-interacive-300x225.jpg 300w, /wp-content/uploads/2024/04/lyingMirrors-arc-interacive-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="227" src="/wp-content/uploads/2024/04/lyingMirrors-doorway.jpg" alt="" class="wp-image-227" srcset="/wp-content/uploads/2024/04/lyingMirrors-doorway.jpg 1024w, /wp-content/uploads/2024/04/lyingMirrors-doorway-300x225.jpg 300w, /wp-content/uploads/2024/04/lyingMirrors-doorway-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="227" src="/wp-content/uploads/2024/04/lyingMirrors-doorway.jpg" alt="" class="wp-image-227" srcset="/wp-content/uploads/2024/04/lyingMirrors-doorway.jpg 1024w, /wp-content/uploads/2024/04/lyingMirrors-doorway-300x225.jpg 300w, /wp-content/uploads/2024/04/lyingMirrors-doorway-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="226" src="/wp-content/uploads/2024/04/lyingMirrors-floorplan-view.jpg" alt="" class="wp-image-226" srcset="/wp-content/uploads/2024/04/lyingMirrors-floorplan-view.jpg 1024w, /wp-content/uploads/2024/04/lyingMirrors-floorplan-view-300x225.jpg 300w, /wp-content/uploads/2024/04/lyingMirrors-floorplan-view-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="226" src="/wp-content/uploads/2024/04/lyingMirrors-floorplan-view.jpg" alt="" class="wp-image-226" srcset="/wp-content/uploads/2024/04/lyingMirrors-floorplan-view.jpg 1024w, /wp-content/uploads/2024/04/lyingMirrors-floorplan-view-300x225.jpg 300w, /wp-content/uploads/2024/04/lyingMirrors-floorplan-view-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -70,8 +167,24 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+<h2 class="wp-block-heading">Feasibility Precedents </h2>
+
+
+
+<ul>
+<li>XBOX Kinect Sensors and similar devices are feasible for motion detection, relaying information in integrated systems, and have great documentation for &#8220;hacking&#8221; them</li>
+
+
+
+<li>Transparent OLED displays are existing, and developing, technologies that have proven functionality at varying dimensions </li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40%">
 <h2 class="wp-block-heading">Programs Used</h2>
 
 
@@ -86,22 +199,6 @@
 
 
 <li>Fusion 360 (object modeling)</li>
-</ul>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<h2 class="wp-block-heading">Feasibility Precedents </h2>
-
-
-
-<ul>
-<li>XBOX Kinect Sensors and similar devices are feasible for motion detection, relaying information in integrated systems, and have great documentation for &#8220;hacking&#8221; them</li>
-
-
-
-<li>Transparent OLED displays are existing, and developing, technologies that have proven functionality at varying dimensions </li>
 </ul>
 </div>
 </div>
@@ -144,7 +241,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I Did</h2>
 
@@ -272,7 +369,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 <figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="512" height="1024" src="/wp-content/uploads/2024/04/popl-sticker-1-512x1024.png" alt="" class="wp-image-161" style="width:auto;height:430px" srcset="/wp-content/uploads/2024/04/popl-sticker-1-512x1024.png 512w, /wp-content/uploads/2024/04/popl-sticker-1-150x300.png 150w, /wp-content/uploads/2024/04/popl-sticker-1.png 600w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
 </div>
@@ -337,7 +434,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I Did</h2>
 
@@ -412,7 +509,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
 <div style="height: 500px;position:relative;"><iframe src="https://player.vimeo.com/video/938060161?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:auto;height: 500px;" title="Serotonin, a visual sound experience demo video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </div>
@@ -492,7 +589,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I Did</h2>
 
@@ -590,7 +687,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I Did</h2>
 
@@ -770,7 +867,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
 <h2 class="wp-block-heading">What I did</h2>
 
