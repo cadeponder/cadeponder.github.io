@@ -33,6 +33,10 @@ body p, body li, body summary, ul.lcp_catlist, figcaption {
 figcaption, footer p{
     color: #828282;
 }
+figcaption.wp-element-caption {
+    color: #FFF8E7;
+    font-style: italic;
+}
 .site-below-footer-wrap[data-section="section-below-footer-builder"]{
     border-top-color: unset;
 }
@@ -120,7 +124,9 @@ ul.lcp_catlist > div {
     margin-bottom: 30px;
 }
 /* Home */
-
+.home-featured-grid figure.wp-block-image {
+    width: 100%;
+}
 /* About Page */
    body .is-layout-flex.headshot-block > div:last-child .wp-block-image img {
      height: 200px;
@@ -131,15 +137,15 @@ ul.lcp_catlist > div {
      margin-left: 20%;
    }
    
-   /* post */
-   .sarah-logo-drk {
+/* post */
+.sarah-logo-drk {
     background: white;
-   }
-   .sarah-logo-lgt {
+}
+.sarah-logo-lgt {
     background: black;
-   }
+}
    
-   /* Mobile Queries */
+/* Mobile Queries */
 @media only screen and (max-width: 781px){
     body .is-layout-flex.headshot-block {
      flex-direction: column-reverse;
