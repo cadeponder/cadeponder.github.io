@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 10 May 2024 01:52:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 May 2024 04:51:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -404,7 +404,7 @@
 
 
 
-<li>Efficiently debugged custom accessibility scripts for customizing rigid integrations lacking or improperly implementing accessibility features</li>
+<li>Created accessibility scripts for customizing rigid integrations lacking, or improperly functioning, accessibility features</li>
 
 
 
@@ -412,7 +412,7 @@
 
 
 
-<li> efficient use of both automated testing &amp; manual testing methods</li>
+<li>Efficient use of both automated testing &amp; manual testing methods</li>
 </ul>
 </div>
 
@@ -740,11 +740,7 @@
 
 
 <ul>
-<li>Created WordPress &#8220;PDF Menus&#8221; admin options page for uploading PDF menus with required custom fields: Menu Name, Menu PDF, and Menu Background Image.
-<ul>
-<li class="has-small-font-size"><em>*The features requiring &#8220;Menu Background Image&#8221; have not been launched yet</em></li>
-</ul>
-</li>
+<li>Created WordPress &#8220;PDF Menus&#8221; admin options page for uploading PDF menus with required custom fields: Menu Name, Menu PDF, and Menu Background Image</li>
 
 
 
@@ -768,7 +764,7 @@
 
 
 <ul>
-<li>Output script conditionals for not displaying incomplete update items</li>
+<li>Conditionals for not displaying incomplete update items on page output</li>
 
 
 
